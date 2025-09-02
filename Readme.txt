@@ -2,7 +2,7 @@
  AAA Environmental Services Inc – Website Project
 =================================================================
 
-Author:        ITUTFS
+Author:        Simran Kaur
 Company:       AAA Environmental Services Inc
 Project Type:  Static Website
 Technologies:  HTML, CSS, JavaScript
@@ -49,6 +49,5 @@ modern devices using media queries and flexible layout techniques.
 📩 Contact:
 -----------------------------------------------------------------
 Company: AAA Environmental Services Inc  
-Email:   itutfs@hotmail.com  
-Phone:   1-866-265-2530  
-Website: tobeupdated.
+
+
